@@ -1,5 +1,42 @@
 # Lab 3 Activity
 
+## (0) Make a copy of this repository
+
+To work on the files for this activity, you may want to clone this repository so that you can directly modify the code here.
+
+### Cloning a copy to the PE nodes
+
+The first (and recommended) way is to clone all the files into your PE node.
+
+1. Access your PE node normally, i.e. perform `ssh` as per the usual
+2. In the root directory, run the following command
+```
+:~$   git clone git@github.com:jasonchristopher21/cs2030s-lab3-activity.git
+```
+![](./util-images/git-clone.PNG)
+3. Your files are now stored in a directory called `cs2030s-lab3-activity`. Perform 
+```
+cd cs2300s-lab3-activity
+```
+to access the director, and you are good to go!
+
+### Cloning a copy locally
+
+If you prefer to work on the files in your local machine (e.g. if you want to use VS Code or IntelliJ)
+
+1. Ensure that you have installed Git on your computer
+2. Obtain the https clone link from this repository
+![](./util-images/clone-option.png)
+3. Run the following command in your terminal
+```
+git clone https://github.com/jasonchristopher21/cs2030s-lab3-activity.git
+```
+4. Your files are now stored in a directory called `cs2030s-lab3-activity`. You are good to go!
+
+### Worst option
+
+Copy all files manually with Ctrl-C and Ctrl-V. :O
+
 ## (1) Exercise in Exceptions
 
 ### 1A. Does this compile? - Open File with Scanner
