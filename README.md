@@ -1,4 +1,5 @@
 # Lab 3 Activity
+_Questions are courtesy of NUS CS2030S AY22/23 Semester 2 Teaching Team_
 
 ## (0) Make a copy of this repository
 
@@ -18,7 +19,7 @@ The first (and recommended) way is to clone all the files into your PE node.
 ```
 cd cs2030s-lab3-activity
 ```
-to access the director, and you are good to go!
+to access the directory, and you are good to go!
 
 ### Cloning a copy locally
 
