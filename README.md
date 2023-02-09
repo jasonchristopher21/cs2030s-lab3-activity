@@ -44,8 +44,6 @@ Copy all files manually with Ctrl-C and Ctrl-V. :O
 Look at the following code found in the `1A` folder in this repository. Does the code compile?
 If it does, why? If it doesn't, can you fix the code?
 
-Hint: [Java's Scanner Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html#Scanner(java.io.File))
-
 `1A/ExceptionDemo.java`
 
 ```java
@@ -59,6 +57,8 @@ class ExceptionDemo {
   }
 }
 ```
+
+Hint: [Java's Scanner Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html#Scanner(java.io.File))
 
 ### 1B. Does this compile? - Open File from Another Method
 
