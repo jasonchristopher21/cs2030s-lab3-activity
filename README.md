@@ -16,7 +16,7 @@ The first (and recommended) way is to clone all the files into your PE node.
 ![](./util-images/git-clone.PNG)
 3. Your files are now stored in a directory called `cs2030s-lab3-activity`. Perform 
 ```
-cd cs2300s-lab3-activity
+cd cs2030s-lab3-activity
 ```
 to access the director, and you are good to go!
 
