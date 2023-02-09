@@ -46,7 +46,7 @@ class ExceptionDemo {
 
 Create your own exception called `MyOwnException` and throw it in the class called `ExceptionDemo.java` present in directory 1C.
 
-## Exercise in Generics
+## (2) Exercise in Generics
 
 ### 2A. Back to Square&lt;One&gt;
 
